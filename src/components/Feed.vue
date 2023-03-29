@@ -1,6 +1,6 @@
 <template>
   <div
-    class=" w-600 lg:w-600 md:w-600 xmd:w-600 sm:w-600 -mt-1 ml-80 2xl:ml-72 lg:ml-36 xmd:mr-40  md:-ml-16 sm:ml-0 md:mr-auto lg:mr-4  justify-between border-solid border-thin border-x-47  ">
+    class=" h-full  w-600 lg:w-600 md:w-600 xmd:w-600 sm:w-600 -mt-1 ml-80 2xl:ml-72 lg:ml-36 xmd:mr-40  md:-ml-16 sm:ml-0 md:mr-auto lg:mr-4  justify-between border-solid border-thin border-x-47 ">
 
     <div class="flex flex-row items-center pl-4 justify-between">
       <div class="w-11/12 flex flex-row">

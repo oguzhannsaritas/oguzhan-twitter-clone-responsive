@@ -1,5 +1,5 @@
 <template>
-  <div class=" 2xl:ml-[230px] lg:ml-40 sm:mr-6 w-12 sm:-ml-2 md:ml-44 xmd:ml-auto  flex flex-col  ">
+  <div class="  2xl:ml-[230px] lg:ml-40 sm:mr-6 w-12 sm:-ml-2 md:ml-44 xmd:ml-auto  flex flex-col  ">
     <button
       class="mb-2 p-2 sm:p-3 2xl:p-[15px] 2xl:ml-[90px] lg:-ml-14 w-16 -ml-4 md:-ml-81 sm:ml-2  rounded-full items-center flex     cursor-pointer justify-center hover:duration-200  hover:bg-134 ">
       <img class="h-8 " src="../assets/twitter_white.svg">

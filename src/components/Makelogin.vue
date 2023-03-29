@@ -1,6 +1,6 @@
 <template>
     <div
-        class="w-80 h-304 md:w-85 md:h-304 2xl:h-[305px] 2xl:w-85   2xl:flex  pr-6 pl-1 2xl:mr-350 xmd:ml-5 md:mr-48  mt-2.5 xmd:hidden md:flex sm:hidden  flex-col rounded-2xl sticky border-47 border-solid border-thin">
+        class="w-80 h-304 md:w-85 md:h-304 2xl:h-[305px] 2xl:w-85   2xl:flex  pr-6 pl-1 2xl:mr-350 xmd:ml-5 md:mr-48  mt-2.5 xmd:hidden md:flex sm:hidden  flex-col rounded-2xl sticky border-47 border-solid border-thin ">
         <span class="mt-2  text-231 font-bold ml-3 mb-2   text-20 font-twitter   "> {{ twitterNew }}</span>
         <span class="text-#71767b pl-2 text-13 leading-[15px]   pb-4  contrast-150 ">
             {{ user }}
