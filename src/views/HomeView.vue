@@ -1,5 +1,5 @@
 <template>
-    <div class=" w-full min-h-screen  flex fixed  justify-between overflow-hidden">
+    <div class=" w-full min-h-screen  flex fixed  justify-between overflow-hidden m-auto">
   
       <Menu />
       <Feed />
