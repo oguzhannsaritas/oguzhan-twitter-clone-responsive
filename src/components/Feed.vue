@@ -9,7 +9,7 @@
         </div>
 
         <input type="search" name="search-input" id="search-input"
-          class="w-5/6  h-11 pl-4 text-15 rounded-30  mt-2 rounded-tl-none rounded-bl-none bg-#202327"
+          class="w-5/6  h-11 pl-4 text-15 rounded-30 outline-none  mt-2 rounded-tl-none rounded-bl-none bg-#202327"
           placeholder="Twitter'da Ara" />
       </div>
       <div class="cursor-pointer mb-1 p-2  bg-transparent mr-2 mt-4 rounded-3xl hover:duration-200 hover:bg-0,25">
